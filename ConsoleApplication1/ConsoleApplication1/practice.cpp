@@ -22,4 +22,5 @@ int main() {
 	for (int j = 0; j < a; j++) {
 		cout << x[j] << " " << y[j] << endl;
 	}
+	cout << "First algorithm study!";
 }
